@@ -1,11 +1,11 @@
 {
     "id": "confluence-space-sync",
     "name": "Confluence Space Sync",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "minAppVersion": "0.15.0",
     "description": "Sync entire Confluence spaces in your Vault",
-    "author": "Pwnyprod",
-    "authorUrl": "https://github.com/pwnyprod",
-    "fundingUrl": "https://paypal.me/phy1337",
+    "author": "CptBronzebeard",
+    "authorUrl": "https://github.com/cptbronzebeard",
+    "fundingUrl": "",
     "isDesktopOnly": true
   }
