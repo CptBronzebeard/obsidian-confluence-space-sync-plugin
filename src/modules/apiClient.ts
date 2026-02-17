@@ -14,7 +14,7 @@ export class ConfluenceAPIClient {
 
   private getAuthHeaders(): Record<string, string> {
     return {
-      "Authorization": `Basic ${Buffer.from(`${this.username}:${this.apiToken}`).toString('base64')}`,
+      "Authorization": `Bearer ${this.apiToken}`,
       "Accept": "application/json"
     };
   }
